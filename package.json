@@ -1,0 +1,18 @@
+{
+  "name": "javascript-topics",
+  "version": "1.0.0",
+  "description": "cypress test",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
